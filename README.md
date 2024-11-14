@@ -16,3 +16,9 @@ This project is a 3D visualization tool designed to read, translate, and display
 - **main.cpp**: The entry point of the program, managing the visualization process.
 - **Visualizer_output.JPG**: A sample output image demonstrating the visualization capability.
 
+## Example Output
+Below is an example output from the visualizer:
+
+![Visualizer Output](Visualizer_output.JPG)
+
+
