@@ -1,7 +1,5 @@
 # Visualizer
 
-# Visualizer Project
-
 This project is a 3D visualization tool designed to read, translate, and display 3D object files in various formats, including OBJ and STL. It includes a set of data readers and writers for managing geometric shapes, and it renders 3D objects in a visual format.
 
 ## Features
