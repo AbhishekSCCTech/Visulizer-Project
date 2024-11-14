@@ -1,1 +1,1 @@
-# Visulizer
+# Visualizer
